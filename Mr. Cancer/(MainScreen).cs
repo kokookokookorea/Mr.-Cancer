@@ -11,7 +11,7 @@ using System.Text;
 
 public class MainScreen
 {
-	public virtual void Refreshscreen(object pixel px)
+	public virtual void Refreshscreen(pixel px)
 	{
 		throw new System.NotImplementedException();
 	}

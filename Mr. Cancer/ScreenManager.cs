@@ -11,7 +11,7 @@ using System.Text;
 
 public class ScreenManager
 {
-	public virtual Screen Screen
+	public virtual Screen
 	{
 		get;
 		set;

@@ -9,6 +9,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+//아 시ㅡ발 존나 어렵네 
+
 public class DrawMamager
 {
 	public virtual MainScreen MainScreen
